@@ -14,7 +14,6 @@ const getHtmlEntries = () => {
     const name = path.basename(file, '.html');
     entries[name] = path.resolve(pagesDir, file);
   });
-
   return entries;
 };
 
