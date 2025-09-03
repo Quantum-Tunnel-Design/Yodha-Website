@@ -1054,7 +1054,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
   content: var(--tw-content);
   position: relative;
@@ -1082,7 +1082,7 @@ body {
 
 .details-body ul li:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1112,7 +1112,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1123,7 +1123,7 @@ body {
 
 .details-body ol li:first-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1147,7 +1147,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1158,7 +1158,7 @@ body {
 
 .details-body ol li:nth-child(2):where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1182,7 +1182,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1193,7 +1193,7 @@ body {
 
 .details-body ol li:last-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+  --tw-content: url("../images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -9495,15 +9495,15 @@ body {
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-4\.png\'\)\] {
-    background-image: url("./gradient-4.png");
+    background-image: url("../images/gradient/gradient-4.png");
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-9\.png\'\)\] {
-    background-image: url("./gradient-9.png");
+    background-image: url("../images/gradient/gradient-9.png");
   }
 
   .bg-\[url\(\'\/images\/gradient\/gradient-39\.png\'\)\] {
-    background-image: url("./gradient-39.png");
+    background-image: url("../images/gradient/gradient-39.png");
   }
 
   .bg-\[url\(\'\/images\/home-page-2\/price-bg\.png\'\)\] {
@@ -12064,7 +12064,7 @@ body {
 
   .before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:before {
     content: var(--tw-content);
-    --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+    --tw-content: url("../images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
@@ -24349,7 +24349,7 @@ body {
 
   .dark\:before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:where(.dark, .dark *):before {
     content: var(--tw-content);
-    --tw-content: url("data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='20'%20height='20'%20rx='10'%20fill='%23FCFCFC'/%3e%3cpath%20d='M9.31661%2013.7561L14.7491%208.42144C15.0836%208.0959%2015.0836%207.5697%2014.7491%207.24416C14.4145%206.91861%2013.8736%206.91861%2013.539%207.24416L8.7116%2011.9901L6.46096%209.78807C6.12636%209.46253%205.58554%209.46253%205.25095%209.78807C4.91635%2010.1136%204.91635%2010.6398%205.25095%2010.9654L8.1066%2013.7561C8.27347%2013.9184%208.49253%2014%208.7116%2014C8.93067%2014%209.14974%2013.9184%209.31661%2013.7561Z'%20fill='black'/%3e%3c/svg%3e");
+    --tw-content: url("../images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
